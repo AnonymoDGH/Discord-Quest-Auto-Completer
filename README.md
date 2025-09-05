@@ -202,7 +202,3 @@ Instantly completes Discord quests with GUI interface.
     log('Quest bot initialized');
 })();
 ```
-
-## Warning
-
-Educational purposes only. Use at own risk.
